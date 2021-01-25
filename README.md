@@ -4,7 +4,6 @@ Java and Web Developer
 - 🌱 I’m currently studing at Institute of Java and Software Enginnering (IJSE).
 - 📫 How to reach me: neranjayadilshan@gmail.com  
 [![neranjaya's github stats](https://github-readme-stats.vercel.app/api?username=neranjayadilshan)](https://github.com/NeranjayaDilshan/NeranjayaDilshan/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<neranjayadilshan>&theme=<dark>" />
 
 
 <!--
