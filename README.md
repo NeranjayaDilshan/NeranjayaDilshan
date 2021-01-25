@@ -5,6 +5,9 @@ Java and Web Developer
 - 📫 How to reach me: neranjayadilshan@gmail.com  
 
 [![neranjaya's github stats](https://github-readme-stats.vercel.app/api?username=neranjayadilshan&show_icons=true&theme=radical)](https://github.com/NeranjayaDilshan/NeranjayaDilshan/github-readme-stats)
+
+[![neranjaya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neranjayadilshan&amp)](https://github.com/NeranjayaDilshan/NeranjayaDilshan/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=neranjayadilshan&amp
 <!--
 **NeranjayaDilshan/NeranjayaDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
