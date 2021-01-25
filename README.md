@@ -1,4 +1,4 @@
-### Hi there 👋  I Neranjaya Dilshan
+### Hi there 👋  I'm Neranjaya Dilshan
 Java and Web Developer
 
 - 🌱 I’m currently studing at Institute of Java and Software Enginnering (IJSE).
