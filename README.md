@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Neranjaya Dilshan
 Java and Web Developer
 
-- 🌱 I'm currently studying at the Institute of Java and Software Engineering (IJSE)
+- 🌱 Software Engineer at The Capital Maharaja Organisation Limited
 - 📫 How to reach me: neranjayadilshan@gmail.com  
 
 <!-- [![neranjaya's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=neranjayadilshan&count_private=true&include_all_commits=true&theme=radical)](https://github.com/NeranjayaDilshan/NeranjayaDilshan/github-readme-stats) -->
