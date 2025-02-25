@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Neranjaya Dilshan
-Software Engineer
+Senior Software Engineer
 
 - 🌱 Senior Software Engineer at The Capital Maharaja Organisation Limited
 - 📫 How to reach me: neranjayadilshan@gmail.com
