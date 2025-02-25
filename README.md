@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Neranjaya Dilshan
 Software Engineer
 
-- 🌱 Software Engineer at The Capital Maharaja Organisation Limited
+- 🌱 Senior Software Engineer at The Capital Maharaja Organisation Limited
 - 📫 How to reach me: neranjayadilshan@gmail.com
 
 
